@@ -17,6 +17,14 @@
 		<h2>CSS3 Wrapping Drop Shadows</h2>
 		<a href="#" class="button">@Bennie's</a>
 		<a href="#" class="button">Buttons</a>
+		
+		<h3>Things I want add:</h3>
+		<ul>
+			<li>Fancy lists styles</li>
+			<li>Different color buttons</li>
+			<li>Sidebar popout thingy</li>
+			<li>Something fancy with media queries</li>
+		</ul>
 		<pre><?
 			
 		//	print_r(range('a', 'z'));
