@@ -1,0 +1,9 @@
+#ajcates's css3 playground
+
+Basically this is just a collection of css3 effects. Most of them will probably only work in Webkit, I would get them to work on other browsers but I'm rather lazy and would rather just play. It's a php file because I'm also playing around with 5.3.
+
+##License
+NEW BSD
+
+
+
