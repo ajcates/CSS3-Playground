@@ -1,3 +1,5 @@
+/* @override http://localhost/projects/css3-playground/main.css */
+
 /* @override 
 	http://localhost/test.css
 	http://localhost/test.css
@@ -168,9 +170,40 @@ pre {
 }
 
 article h2 {
-	margin: .5em;
+	margin: .5em 0;
 	text-align: left;
 }
+
+
+
+
+aside {
+	width: 200px;
+	position: absolute;
+	left: 100%;
+	top: 2em;
+	background: #eee;
+	border-radius: 3px;
+	padding: 1em;
+	z-index: -1;
+	display: table;
+}
+
+aside h2 {
+	position: absolute;
+	bottom: 100%;
+	top: 0px;
+	right: -50px;
+	padding: .5em 1em;
+	border-radius: 3px;
+	background: #eee;
+	-webkit-transform:rotate(90deg);
+}
+
+aside p {
+}
+
+
 
 
 
