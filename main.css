@@ -240,6 +240,23 @@ footer {
 }
 
 
+#centerList {
+	margin: 1em auto;
+	display: table;
+}
+#centerList li {
+	list-style: none;
+	float: left;
+	padding: 1em;
+	background: #ddd;
+	border-radius: 3px;
+	margin: 0 1em;
+}
 
+#centerList::after {
+	clear: both;
+	display: block;
+	content: '';
+}
 
 
