@@ -290,6 +290,11 @@ footer {
 	text-align: center;
 }
 
+#alex h4 a {
+	color: #ccc;
+	text-decoration: none;
+}
+
 #alex input[type=email]{
 	font-size: 1em;
 	-webkit-border-radius: 5px;
