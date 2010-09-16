@@ -21,6 +21,7 @@
 		<h2>First off this page only works in webkit based browsers.</h2>
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		
+		<div id="gradient-triangle"></div>
 		
 		<form id="alex" action="#" method="post">
 			<h4><a href="http://forrst.com/people/alexbrooke">@Alexbrooke</a>'s letter press email form thingy in CSS3:</h4>
